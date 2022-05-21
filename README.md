@@ -19,15 +19,17 @@
 - частотные преобразователи, регулирующие клапаны: [DANFOSS](https://www.danfoss.com/ru-ru/), [Элемер](https://www.elemer.ru/), [Emerson](https://www.emerson.ru/ru-ru/automation/measurement-instrumentation/metran).
 - сборные элементы для шкафов управления: [Rittal](https://www.rittal.com/ru-ru/).
 2. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Для этого изучите [инструкцию](https://docs.google.com/presentation/d/11Gg6NY7cS9N6BnfByXHVZxVBs61XxORsZEeZgDAHLGQ/edit?usp=sharing).
-3. Загрузите и установите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального сайта Siemens](https://support.industry.siemens.com/cs/document/109761045/simatic-step-7-and-wincc-v15-1-trial-download?dti=0&lc=en-US). После установки вы получите бесплатную полнофункциональную версию trial-версию на 21 день.
+3. Загрузите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального сайта Siemens](https://support.industry.siemens.com/cs/document/109772803/simatic-step-7-incl-safety-and-wincc-v16-trial-download?dti=0&lc=en-WW) или из [репозитория Нетологии](https://drive.google.com/drive/folders/1jhHX2gk5EsAB2V7A1iIWIJMT8TPrpMhi). Вы получите бесплатную полнофункциональную версию trial-версию на 21 день.
+4. Разверните TIA Portal на виртуальной машине. Для этого используйте [инструкцию](https://docs.google.com/presentation/d/19cSsdcEucIE7oTKTbxEnkeRKdH7vw8_mneortgpkOF4/edit?usp=sharing).
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Google.Диск.
-2. Google.Документы.
+1. [Google.Диск](https://drive.google.com/drive/my-drive).
+2. [Google.Документы](https://docs.google.com/document/u/0/).
 3. Сайты производителей автоматики, указанные в разделе **"Чек-лист готовности к курсовой работе"**.
-4. [TIA Portal v17 + WinCC v17](https://support.industry.siemens.com/cs/document/109784440/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v17-trial-download?dti=0&lc=en-WW).
+4. [TIA Portal v16 + WinCC v16](https://drive.google.com/drive/folders/1jhHX2gk5EsAB2V7A1iIWIJMT8TPrpMhi).
 5. [Инструкция по регистрации на портале Siemens](https://docs.google.com/presentation/d/11Gg6NY7cS9N6BnfByXHVZxVBs61XxORsZEeZgDAHLGQ/edit?usp=sharing).
+6. [Инструкция по работе с временной лицензией](https://docs.google.com/presentation/d/19cSsdcEucIE7oTKTbxEnkeRKdH7vw8_mneortgpkOF4/edit?usp=sharing).
 
 ### Инструкция к выполнению курсовой работы
 
