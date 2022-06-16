@@ -20,18 +20,18 @@
 - элементы автоматики: [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
 - ПЛК, модули ввода/вывода, периферийные и интерфейсные модули, частотные преобразователи, регулирующие клапаны: [SIEMENS](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru)
 - частотные преобразователи, регулирующие клапаны: [DANFOSS](https://www.danfoss.com/ru-ru/)
-
-2. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему.
-3. Загрузите и установите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального сайта Siemens](https://support.industry.siemens.com/cs/document/109761045/simatic-step-7-and-wincc-v15-1-trial-download?dti=0&lc=en-US). После установки вы получите бесплатную полнофункциональную версию trial-версию на 21 день.
+2. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/11Gg6NY7cS9N6BnfByXHVZxVBs61XxORsZEeZgDAHLGQ/edit?usp=sharing).
+3. Загрузите и установите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE). После установки вы получите бесплатную полнофункциональную версию trial-версию на 21 день.
+В случае окончания триал-периода можно развернуть TIA Portal на виртуальной машине. Как это сделать - описано в [инструкции](https://docs.google.com/presentation/d/19cSsdcEucIE7oTKTbxEnkeRKdH7vw8_mneortgpkOF4/edit?usp=sharing).
 
 -----
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Google Диск
-2. Google документы
+1. [Google.Диск](https://drive.google.com/drive/u/0/my-drive).
+2. [Google.Документы](https://www.google.ru/intl/ru/docs/about/).
 3. Сайты производителей автоматики, указанные в разделе "Чек-лист готовности к курсовой работе"
-4. [TIA Portal v17 + WinCC v17](https://support.industry.siemens.com/cs/document/109784440/simatic-step-7-incl-safety-s7-plcsim-and-wincc-v17-trial-download?dti=0&lc=en-WW).
+4. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
 
 -----
 
@@ -42,7 +42,7 @@
 3. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. В названии файла введите вашу фамилию и имя.
 5. Скопируйте текст задания в свой документ.
-6. В соответствии со [структурной схемой](https://drive.google.com/file/d/1WoeViaMVX3dybgziYoZ4ra8B0kYRulMM/view?usp=sharing) и техническим заданием подберите датчики на сайтах производителей, указанных в "Чек-листе готовности к курсовой работе".
+6. В соответствии с [техническим заданием](https://docs.google.com/document/d/1T5WKqEH-44hEJefy5iq_yIxquGd0RcvOSUxEsNzlBr0/edit?usp=sharing) подберите датчики на сайтах производителей, указанных в "Чек-листе готовности к курсовой работе".
 7. Заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделе "Датчики" в соответствии с подобранными вами датчиками.
 8. Аналогичным образом подберите регуляторы и исполнительные механизмы (при необходимости).
 9. Заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделах "Регуляторы" и "Исполнительные механизмы" в соответствии с подобранными вами компонентами.
@@ -50,8 +50,6 @@
 11. Вставьте в соответствующие абзацы вашего "Шаблона для выполнения домашнего задания" ссылки на выполненные задания.
 12. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 13. Любые вопросы по решению задач задавайте в чате учебной группы.
-
-Изучите [техническое задание](https://docs.google.com/document/d/1T5WKqEH-44hEJefy5iq_yIxquGd0RcvOSUxEsNzlBr0/edit?usp=sharing) для понимание структуры и объема работы.
 
 -----
 
