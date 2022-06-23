@@ -23,6 +23,7 @@
 2. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
 3. Загрузите и установите программное обеспечение для создания HMI WinCC, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
 **ОБРАТИТЕ ВНИМАНИЕ!** Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Рекомендуется установка данного ПО на виртуальной машине. В этом случае есть возможность откатить ПО к началу пробного периода. Как это сделать описано в [этой инструкции](https://docs.google.com/presentation/d/19cSsdcEucIE7oTKTbxEnkeRKdH7vw8_mneortgpkOF4/edit?usp=sharing).
+4. Изучите [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85). В нем дано описание расшифровки схем автоматизации.
 
 -----
 
@@ -32,6 +33,8 @@
 2. [Google.Документы](https://www.google.ru/intl/ru/docs/about/).
 3. Сайты производителей автоматики, указанные в разделе "Чек-лист готовности к курсовой работе"
 4. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
+5. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
+6. [Спецификация](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing)
 
 -----
 
@@ -46,10 +49,11 @@
 7. Заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделе "Датчики" в соответствии с подобранными вами датчиками.
 8. Аналогичным образом подберите регуляторы и исполнительные механизмы (при необходимости).
 9. Заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделах "Регуляторы" и "Исполнительные механизмы" в соответствии с подобранными вами компонентами.
-10. Разработайте HMI-проект для АСУ ТП в программе WinCC.
-11. Вставьте в соответствующие абзацы вашего "Шаблона для выполнения домашнего задания" ссылки на выполненные задания.
-12. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-13. Любые вопросы по решению задач задавайте в чате учебной группы.
+10. Подберите компоненты электрического шкафа для данной АСУ ТП и заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделе "Автоматика"
+11. Разработайте HMI-проект для АСУ ТП в программе WinCC.
+12. Вставьте в соответствующие абзацы вашего "Шаблона для выполнения домашнего задания" ссылки на выполненные задания.
+13. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
+14. Любые вопросы по решению задач задавайте в чате учебной группы.
 
 -----
 
