@@ -20,7 +20,7 @@
 - элементы автоматики: [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
 - ПЛК, модули ввода/вывода, периферийные и интерфейсные модули, частотные преобразователи, регулирующие клапаны: [SIEMENS](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru)
 - частотные преобразователи, регулирующие клапаны: [DANFOSS](https://www.danfoss.com/ru-ru/)
-2. Изучите [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85). В нем дано описание расшифровки схем автоматизации.
+2. Изучите [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85). В нём дано описание расшифровки схем автоматизации.
 3. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
 4. Загрузите и установите программное обеспечение для создания проекта PLC Siemens, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE):
 <details>
@@ -53,8 +53,9 @@
 3. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
 4. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
 5. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
-6. [Спецификация](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
-7. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing) себе на Google Disk
+6. [Техническое задание](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing)
+7. [Спецификация](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
+8. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing) себе на Google Disk
 
 -----
 
@@ -65,7 +66,7 @@
 3. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. В названии файла введите вашу фамилию и имя.
 5. Скопируйте текст задания в свой документ.
-6. В соответствии с [техническим заданием](https://docs.google.com/document/d/1T5WKqEH-44hEJefy5iq_yIxquGd0RcvOSUxEsNzlBr0/edit?usp=sharing) подберите датчики на сайтах производителей, указанных в "Чек-листе готовности к курсовой работе".
+6. В соответствии с [техническим заданием](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing) подберите датчики на сайтах производителей, указанных в "Чек-листе готовности к курсовой работе".
 7. Заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделе "Датчики" в соответствии с подобранными вами датчиками.
 8. Аналогичным образом подберите регуляторы и исполнительные механизмы (при необходимости).
 9. Заполните [спецификацию](https://docs.google.com/spreadsheets/d/17tOAmPo7Z6z4lXXrhkL3ghtr7bF6W0NTV-cz05664s8/edit?usp=sharing) в разделах "Регуляторы" и "Исполнительные механизмы" в соответствии с подобранными вами компонентами.
