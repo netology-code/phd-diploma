@@ -15,7 +15,8 @@
 ### Чеклист готовности к курсовой работе
 
 1. Ознакомьтесь с сайтами ведущих производителей, на которых необходимо будет подобрать оборудование для новой АСУ ТП. 
-*Список производителей:*
+
+Список производителей:
 - датчики: [BALLUFF](https://www.balluff.com/ru-ru), [OMRON](https://industrial.omron.ru/ru/home), [ОВЕН](https://owen.ru/)
 - элементы автоматики: [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
 - ПЛК, модули ввода/вывода, периферийные и интерфейсные модули, частотные преобразователи, регулирующие клапаны: [SIEMENS](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru)
