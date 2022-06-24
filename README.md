@@ -54,7 +54,7 @@
 4. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
 5. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
 6. [Техническое задание](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing)
-7. [Спецификация](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
+7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
 8. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing) себе на Google Disk
 
 -----
@@ -67,7 +67,7 @@
 4. В названии файла введите вашу фамилию и имя.
 5. Скопируйте текст задания в свой документ.
 6. В соответствии с [техническим заданием](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing) подберите датчики на сайтах производителей, указанных в чеклисте готовности к курсовой работе.
-7. Заполните спецификацию в разделе [«Датчики»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=340646123&range=A1) в соответствии с подобранными вами датчиками.
+7. Создайте копию на своем диске и заполните спецификацию в разделе [«Датчики»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=340646123&range=A1) в соответствии с подобранными вами датчиками.
 8. Аналогичным образом подберите регуляторы и исполнительные механизмы (при необходимости).
 9. Заполните спецификацию в разделах [«Регуляторы»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=930614803&range=A1) и [«Исполнительные механизмы»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=934707263&range=A1) в соответствии с подобранными вами компонентами.
 10. Подберите компоненты электрического шкафа для данной АСУ ТП и заполните спецификацию в разделе [«Автоматика»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=581303739&range=A1).
