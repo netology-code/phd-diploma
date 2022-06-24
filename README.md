@@ -45,7 +45,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Google.Диск](https://drive.google.com/drive/u/0/my-drive).
+1. [Google.Диск](https://drive.google.com/drive/u/0/my-drive)
 2. Сайты производителей автоматики:
 - датчики: [BALLUFF](https://www.balluff.com/ru-ru), [OMRON](https://industrial.omron.ru/ru/home), [ОВЕН](https://owen.ru/)
 - элементы автоматики: [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
