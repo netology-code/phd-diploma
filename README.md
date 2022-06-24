@@ -55,7 +55,7 @@
 5. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
 6. [Техническое задание](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing)
 7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
-8. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing) себе на Google Disk
+8. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing)
 
 -----
 
