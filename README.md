@@ -24,7 +24,7 @@
 2. Изучите описание обозначений приборов и средств автоматизации в схемах согласно [ГОСТу 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
 3. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
 4. Загрузите и установите программное обеспечение для создания проекта PLC Siemens, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE).
-**Обратите внимание!** Если вы планируете выполнять необязательное задание (_*_), то используйте подсказку по установки для версии TIA Portal v16, если же не планируете - то можно воспользоваться подсказкой по установке для версии TIA Portal V13.
+**Обратите внимание!** Если вы планируете выполнять необязательное задание (_*_), то необходимо использовать только TIA Portal v16, если же не планируете - то можно воспользоваться любой версией.
 <details>
   <summary> Подсказка по установке TIA Portal V13 (доступна по клику)</summary>
   
@@ -68,11 +68,12 @@
 - элементы автоматики: [SCHNEIDER ELECTRIC](https://www.se.com/ru/ru/)
 - ПЛК, модули ввода/вывода, периферийные и интерфейсные модули, частотные преобразователи, регулирующие клапаны: [SIEMENS](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru)
 3. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE)
-4. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
-5. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
-6. [Техническое задание](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing)
-7. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
-8. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing)
+4. [TIA Portal v16](https://support.industry.siemens.com/cs/document/109772803/simatic-step-7-incl-safety-and-wincc-v16-trial-download?dti=0&lc=en-KW)
+5. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
+6. [ГОСТ 21.208-2013](https://mvif.ru/uslovnyie-oboznacheniya-priborov-i-sredstv-avtomatizaczii-v-sxemax-gost-21.404-85)
+7. [Техническое задание](https://docs.google.com/document/d/1Q0ODET9wv9G1nzHl13mzmrpZ0cfT2YczUlS8IE5zFis/edit?usp=sharing)
+8. [Шаблон спецификации](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit?usp=sharing)
+9. [Шаблон для курсового проекта](https://docs.google.com/document/d/1Xz9LoDJ5GSJd0NKZgSEUXIXm_1DkrAzvoSbFq15mWaU/edit?usp=sharing)
 
 -----
 
@@ -89,13 +90,18 @@
 9. Заполните спецификацию в разделах [«Регуляторы»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=930614803&range=A1) и [«Исполнительные механизмы»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=934707263&range=A1) в соответствии с подобранными вами компонентами.
 10. Подберите компоненты электрического шкафа для данной АСУ ТП и заполните спецификацию в разделе [«Автоматика»](https://docs.google.com/spreadsheets/d/1aTwbcsF_Wrfi-dd64A1or906VzEMH9smy5EqbGPL0Jg/edit#gid=581303739&range=A1).
 11. Сконфигурируйте аппаратную конфигурацию проекта, добавив в нее все подобранные элементы автоматики. 
-12. * 
-13. Разработайте HMI-проект для АСУ ТП в программе WinCC и проверьте его работу в симуляторе.
-14. Сохраните проект и разместите его на своём Google диске.
-15. Вставьте в соответствующие абзацы вашего «Шаблона для курсового проекта» ссылки на выполненные задания.
-16. Для проверки курсового проекта преподавателем отправьте ссылку на ваш документ в личном кабинете.
-17. Любые вопросы по решению заданий задавайте в чате учебной группы.
+12. Разработайте HMI-проект для АСУ ТП в программе WinCC и проверьте его работу в симуляторе.
+13. Сохраните проект и разместите его на своём Google диске.
+14. Вставьте в соответствующие абзацы вашего «Шаблона для курсового проекта» ссылки на выполненные задания.
+15. Для проверки курсового проекта преподавателем отправьте ссылку на ваш документ в личном кабинете.
+16. Любые вопросы по решению заданий задавайте в чате учебной группы.
 
+* **Дополнительное задание (необязательное)**
+
+Настройте функцию резервирования на базе PLC S7-1515R/H. Для этого выполните следующие действия:
+1. Добавьте данный PLC в аппаратную конфигурацию созданного проекта
+2. Создайте кольцевую топологию всех устройств в сети
+3. Проверьте работу резервного PLC.
 
 -----
 
